@@ -1,4 +1,4 @@
-package com.corezoid.usercode;
+package bar;
 
 import com.corezoid.gitcall.runner.api.UsercodeHandler;
 import java.util.Map;
